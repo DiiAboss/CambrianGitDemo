@@ -119,3 +119,7 @@ Hi, my name is Khadija and I am looking to become a full stack mobile applicatio
 # Hey, My name is Shivam Bajaj, the Date is 18th September, 2022. 
 My favourite is Cat.
 I am looking forward to learn exciting things in the field of mobile applications this semester which in turn will help me in enhance my technical skills and give much exposure to Software World.
+
+# Hello My Name Is Dillon Abo!
+I have a bunny named Nutmeg and a Guinea Pig named Zella!
+I am currently employed in the IoT field and I am looking forward to learning as many programmnig languages as possible!
